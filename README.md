@@ -18,6 +18,12 @@ An intelligent road safety system that detects and alerts drivers to potential h
 - Python for backend processing
 - Deep learning frameworks for AI implementation
 
+##Reference Data
+-https://www.youtube.com/watch?v=GRpb1Tr1pcE
+
+##Image
+
+
 ## Contributors
 202434770 박세익
 202434776 박해든
