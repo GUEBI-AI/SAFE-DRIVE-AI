@@ -5,10 +5,10 @@ Real-time road hazard detection system using computer vision and deep learning f
 An intelligent road safety system that detects and alerts drivers to potential hazards in real-time using computer vision and artificial intelligence.
 
 ### Key Features
-- Real-time vehicle, pedestrian, and obstacle detection
-- Distance measurement and collision risk calculation
-- Hazard prediction and warning system
-- Adaptive detection for various weather and lighting conditions
+- project 1 : Real-time vehicle, pedestrian, and obstacle detection
+- project 2 : Hazard prediction and warning system
+- project 3 : Distance measurement and collision risk calculation
+- project 4 : Adaptive detection for various weather and lighting conditions
 
 ## Getting Started
 
