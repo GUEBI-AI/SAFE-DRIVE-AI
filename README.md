@@ -17,12 +17,14 @@ An intelligent road safety system that detects and alerts drivers to potential h
 - YOLO for object detection
 - Python for backend processing
 - Deep learning frameworks for AI implementation
+- Huggingface Transformers
 
 ##Reference Data
 -https://www.youtube.com/watch?v=GRpb1Tr1pcE
 
 ##Image
-
+-![project1 demo](https://github.com/GUEBI-AI/SAFE-DRIVE-AI/blob/main/1.png?raw=true)
+-![project2 demo](https://github.com/GUEBI-AI/SAFE-DRIVE-AI/blob/main/2.png?raw=true)
 
 ## Contributors
 202434770 박세익
